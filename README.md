@@ -17,11 +17,32 @@ Diagram berikut menunjukkan alur data dalam sistem follow up jemaah.
 
 ## 🎨 Mockup Antarmuka
 
-Rancangan UI aplikasi yang berfokus pada pengalaman pengguna.
+Rancangan UI aplikasi yang berfokus pada pengalaman pengguna dalam mengelola proses follow up calon jemaah.
 
-| Login Page                 | Dashboard                          | Core Feature                   |
-| -------------------------- | ---------------------------------- | ------------------------------ |
-| ![Login](assets/login.png) | ![Dashboard](assets/dashboard.png) | ![Feature](assets/feature.png) |
+| Dashboard Admin                        | Dashboard Staff                        | Data Jemaah                  |
+| -------------------------------------- | -------------------------------------- | ---------------------------- |
+| ![Dashboard Admin](DashboardAdmin.jpg) | ![Dashboard Staff](DashboardStaff.jpg) | ![Data](DataCalonJamaah.jpg) |
+
+| Jadwal Follow Up              | Jadwal Staff                             | Tambah Jadwal                       |
+| ----------------------------- | ---------------------------------------- | ----------------------------------- |
+| ![Jadwal](JadwalFollowUp.jpg) | ![Jadwal Staff](JadwalFollowUpStaff.jpg) | ![Tambah](TambahJadwalFollowUp.jpg) |
+
+| Update Follow Up              | Status Jemaah                         | Status Staff                               |
+| ----------------------------- | ------------------------------------- | ------------------------------------------ |
+| ![Update](UpdateFollowup.jpg) | ![Status](StatusKomunikasiJamaah.jpg) | ![Status Staff](StatusKomunikasiStaff.jpg) |
+
+| Aktivitas                        | Catatan                            | Laporan                        |
+| -------------------------------- | ---------------------------------- | ------------------------------ |
+| ![Aktivitas](AktivitasStaff.jpg) | ![Catatan](CatatanJamaahStaff.jpg) | ![Laporan](LaporanClosing.jpg) |
+
+| Manajemen                           | Settings                  | Transaksi                              |
+| ----------------------------------- | ------------------------- | -------------------------------------- |
+| ![Manajemen](ManajemenPengguna.jpg) | ![Settings](Settings.jpg) | ![Transaksi](TransaksiCalonJamaah.jpg) |
+
+| Update Status                      |   |   |
+| ---------------------------------- | - | - |
+| ![Update Status](UpdateStatus.jpg) |   |   |
+
 
 ---
 
