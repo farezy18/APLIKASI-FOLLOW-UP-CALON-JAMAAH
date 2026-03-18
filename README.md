@@ -8,13 +8,11 @@
 
 ### DFD Level 0
 
-![DFD Level 0](assets/dfd0.png)
-*Diagram konteks yang menunjukkan aliran data global antara sistem dan entitas luar.*
+![DFD Level 0](dfd0.png)
 
 ### DFD Level 1
 
-![DFD Level 1](assets/dfd1.png)
-*Detail proses bisnis, termasuk pengelolaan data jemaah, follow up, dan pembuatan laporan.*
+![DFD Level 1](dfd1.png)
 
 ---
 
