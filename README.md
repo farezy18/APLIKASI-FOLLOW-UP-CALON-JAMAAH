@@ -4,16 +4,15 @@
 
 ---
 
-## 📊 Perancangan Sistem (DFD)
+## 📊 Data Flow Diagram (DFD)
 
-### DFD Level 0
+Diagram berikut menunjukkan alur data dalam sistem follow up jemaah.
 
-![DFD Level 0](dfd0.png)
+### 🔹 DFD Level 0
+![DFD Level 0](dfd0.jpeg)
 
-### DFD Level 1
-
-![DFD Level 1](dfd1.png)
-
+### 🔹 DFD Level 1
+![DFD Level 1](dfd1.jpeg)
 ---
 
 ## 🎨 Mockup Antarmuka
