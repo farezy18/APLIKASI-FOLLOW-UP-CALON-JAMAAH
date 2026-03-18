@@ -61,19 +61,6 @@ Rancangan UI aplikasi yang berfokus pada pengalaman pengguna.
 
 ---
 
-## 🗂️ Struktur Sistem
-
-* **User**
-* **Calon Jemaah**
-* **Follow Up**
-* **Laporan**
-
-Relasi:
-
-* User → Follow Up
-* Calon Jemaah → Follow Up
-
----
 
 ## 💻 Cara Instalasi (Local)
 
@@ -138,51 +125,5 @@ php artisan serve
 ```
 http://127.0.0.1:8000
 ```
-
----
-
-## 🌐 Deployment (Railway)
-
-1. Push project ke GitHub
-2. Hubungkan repository ke Railway
-3. Set environment variables:
-
-```
-APP_ENV=production
-APP_DEBUG=false
-APP_KEY=your_key
-DB_CONNECTION=mysql
-DB_HOST=xxxx
-DB_DATABASE=xxxx
-DB_USERNAME=xxxx
-DB_PASSWORD=xxxx
-```
-
-4. Jalankan di Railway:
-
-```bash
-php artisan migrate --force
-php artisan db:seed --force
-```
-
----
-
-## 🔑 Akun Uji
-
-* **Admin**
-
-  * Email: [admin@sistemfu.local](mailto:admin@sistemfu.local)
-  * Password: password
-
-* **Staff**
-
-  * Email: [staff@sistemfu.local](mailto:staff@sistemfu.local)
-  * Password: password
-
----
-
-## 📌 Catatan
-
-Aplikasi ini dibuat sebagai bagian dari tugas besar mata kuliah Sistem Informasi, dengan fokus pada pengelolaan proses follow up calon jemaah secara digital dan terstruktur.
 
 ---
