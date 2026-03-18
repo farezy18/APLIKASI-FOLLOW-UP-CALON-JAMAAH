@@ -39,9 +39,9 @@ Rancangan UI aplikasi yang berfokus pada pengalaman pengguna dalam mengelola pro
 | ----------------------------------- | ------------------------- | -------------------------------------- |
 | ![Manajemen](ManajemenPengguna.jpg) | ![Settings](Settings.jpg) | ![Transaksi](TransaksiCalonJamaah.jpg) |
 
-| Update Status                      |   |   |
-| ---------------------------------- | - | - |
-| ![Update Status](UpdateStatus.jpg) |   |   |
+| Update Status                      | Login Portal                       |   |
+| ---------------------------------- | ---------------------------------- | - |
+| ![Update Status](UpdateStatus.jpg) | ![Login Portal](loginportal.jpeg)  |   |
 
 
 ---
