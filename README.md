@@ -25,6 +25,15 @@ Diagram berikut menunjukkan struktur database dan relasi antar entitas dalam sis
 
 ---
 
+## 🧩 Class Diagram
+
+Diagram berikut menggambarkan struktur kelas, atribut, method, serta relasi antar kelas dalam sistem.
+
+### 🔹 Class Diagram
+![Class Diagram](class_diagram.jpg)
+
+---
+
 ## 🗃️ Database SQL
 
 File berikut berisi struktur dan data awal database yang digunakan dalam sistem. 
