@@ -48,7 +48,7 @@ Rancangan UI aplikasi yang berfokus pada pengalaman pengguna dalam mengelola pro
 
 | Update Follow Up              | Status Jemaah                         | Status Staff                               |
 | ----------------------------- | ------------------------------------- | ------------------------------------------ |
-| ![Update](updateFollowUpStaff.jpg) | ![Status](StatusKomunikasiJamaah.jpg) | ![Status Staff](statusKomunikasiStaff.jpg) |
+| ![Update]([updateFollowUpStaff.jpg](https://raw.githubusercontent.com/farezy18/APLIKASI-FOLLOW-UP-CALON-JAMAAH/main/updateFollowUpStaff.jpeg)) | ![Status](StatusKomunikasiJamaah.jpg) | ![Status Staff]([statusKomunikasiStaff.jpg](https://raw.githubusercontent.com/farezy18/APLIKASI-FOLLOW-UP-CALON-JAMAAH/main/statusKomunikasiStaff.jpeg)) |
 
 | Aktivitas                        | Catatan                            | Laporan                        |
 | -------------------------------- | ---------------------------------- | ------------------------------ |
@@ -60,7 +60,7 @@ Rancangan UI aplikasi yang berfokus pada pengalaman pengguna dalam mengelola pro
 
 | Detail Komunikasi                      | Login Portal                       |   |
 | ---------------------------------- | ---------------------------------- | - |
-| ![Detail Komunikasi](detailKomunikasi.jpg) | ![Login Portal](loginportal.jpeg)  |   |
+| ![Detail Komunikasi]([detailKomunikasi.jpg](https://raw.githubusercontent.com/farezy18/APLIKASI-FOLLOW-UP-CALON-JAMAAH/main/detailKomunikasi.jpeg)) | ![Login Portal](loginportal.jpeg)  |   |
 
 
 ---
