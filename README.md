@@ -25,6 +25,15 @@ Diagram berikut menunjukkan struktur database dan relasi antar entitas dalam sis
 
 ---
 
+## 🗃️ Database SQL
+
+File berikut berisi struktur dan data awal database yang digunakan dalam sistem. 
+
+### 🔹 File SQL 
+[jamaah_followup.sql](jamaah_followup.sql) 
+
+---
+
 ## 🎨 Mockup Antarmuka
 
 Rancangan UI aplikasi yang berfokus pada pengalaman pengguna dalam mengelola proses follow up calon jemaah.
