@@ -16,6 +16,15 @@ Diagram berikut menunjukkan alur data dalam sistem follow up jemaah.
 
 ---
 
+## 🗄️ Entity Relationship Diagram (ERD)
+
+Diagram berikut menunjukkan struktur database dan relasi antar entitas dalam sistem.
+
+### 🔹 ERD
+![ERD](erd.jpeg)
+
+---
+
 ## 🎨 Mockup Antarmuka
 
 Rancangan UI aplikasi yang berfokus pada pengalaman pengguna dalam mengelola proses follow up calon jemaah.
