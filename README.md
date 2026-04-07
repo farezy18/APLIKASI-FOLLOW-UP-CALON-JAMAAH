@@ -48,7 +48,7 @@ Rancangan UI aplikasi yang berfokus pada pengalaman pengguna dalam mengelola pro
 
 | Update Follow Up              | Status Jemaah                         | Status Staff                               |
 | ----------------------------- | ------------------------------------- | ------------------------------------------ |
-| ![Update]() | ![Status](StatusKomunikasiJamaah.jpg) | ![Status Staff]() |
+| ![Update](updateFollowUpStaff.jpg) | ![Status](StatusKomunikasiJamaah.jpg) | ![Status Staff](statusKomunikasiStaff.jpg) |
 
 | Aktivitas                        | Catatan                            | Laporan                        |
 | -------------------------------- | ---------------------------------- | ------------------------------ |
@@ -60,7 +60,7 @@ Rancangan UI aplikasi yang berfokus pada pengalaman pengguna dalam mengelola pro
 
 | Detail Komunikasi                      | Login Portal                       |   |
 | ---------------------------------- | ---------------------------------- | - |
-| ![Detail Komunikasi]() | ![Login Portal](loginportal.jpeg)  |   |
+| ![Detail Komunikasi](detailKomunikasi.jpg) | ![Login Portal](loginportal.jpeg)  |   |
 
 
 ---
