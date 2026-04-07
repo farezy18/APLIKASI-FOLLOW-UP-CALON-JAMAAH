@@ -44,7 +44,7 @@ Rancangan UI aplikasi yang berfokus pada pengalaman pengguna dalam mengelola pro
 
 | Jadwal Follow Up              | Jadwal Staff                             | Tambah Jadwal                       |
 | ----------------------------- | ---------------------------------------- | ----------------------------------- |
-| ![Jadwal](JadwalFollowUp.jpg) | ![Jadwal Staff](jadwalFollowUpStaff.jpg) | ![Tambah](TambahJadwalFollowUp.jpg) |
+| ![Jadwal](JadwalFollowUp.jpg) | ![Jadwal Staff](https://raw.githubusercontent.com/farezy18/APLIKASI-FOLLOW-UP-CALON-JAMAAH/main/jadwalFollowUpStaff.jpeg) | ![Tambah](TambahJadwalFollowUp.jpg) |
 
 | Update Follow Up              | Status Jemaah                         | Status Staff                               |
 | ----------------------------- | ------------------------------------- | ------------------------------------------ |
