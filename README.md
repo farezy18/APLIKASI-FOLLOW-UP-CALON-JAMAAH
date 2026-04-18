@@ -12,7 +12,7 @@ Diagram berikut menunjukkan alur data dalam sistem follow up jemaah.
 ![DFD Level 0](dfd0_new.jpg)
 
 ### 🔹 DFD Level 1
-![DFD Level 1](dfd1_new.jpg)
+![DFD Level 1](dfd1.jpg)
 
 ---
 
