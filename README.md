@@ -69,7 +69,7 @@ Rancangan UI aplikasi yang berfokus pada pengalaman pengguna dalam mengelola pro
 
 | Detail Komunikasi                      | Login Portal Admin                      |   | Login Portal Staff                      |
 | ---------------------------------- | ---------------------------------- | - | -------------------------------------- |
-| ![Detail Komunikasi](https://raw.githubusercontent.com/farezy18/APLIKASI-FOLLOW-UP-CALON-JAMAAH/main/detailKomunikasi.jpeg) | ![Login Portal](https://raw.githubusercontent.com/farezy18/APLIKASI-FOLLOW-UP-CALON-JAMAAH/main/loginportaladmin.jpeg)  |   | ![Login Portal](https://sercontentgithub.com/farezy18/APLIKASI-FOLLOW-UP-CALON-JAMAAH/main/loginportalstaff.jpeg)  |
+| ![Detail Komunikasi](https://raw.githubusercontent.com/farezy18/APLIKASI-FOLLOW-UP-CALON-JAMAAH/main/detailKomunikasi.jpeg) | ![Login Portal](https://raw.githubusercontent.com/farezy18/APLIKASI-FOLLOW-UP-CALON-JAMAAH/main/loginportaladmin.jpeg)  |   | ![Login Portal_Staff](https://raw.githubusercontent.com/farezy18/APLIKASI-FOLLOW-UP-CALON-JAMAAH/main/loginportalstaff.jpeg)  |
 
 
 ---
