@@ -21,7 +21,7 @@ Diagram berikut menunjukkan alur data dalam sistem follow up jemaah.
 Diagram berikut menunjukkan struktur database dan relasi antar entitas dalam sistem.
 
 ### 🔹 ERD
-![ERD](erd.jpg)
+![ERD](erd_new.jpg)
 
 ---
 
