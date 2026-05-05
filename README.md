@@ -1,4 +1,4 @@
-# 🚀 Tugas Besar: Sistem Follow Up Calon Jemaah Umrah
+belo# 🚀 Tugas Besar: Sistem Follow Up Calon Jemaah Umrah
 
 > **Dosen Pengampu:** Muhammad Shiddiq Azis, S.T., MBA
 
@@ -40,6 +40,22 @@ File berikut berisi struktur dan data awal database yang digunakan dalam sistem.
 
 ### 🔹 File SQL 
 [jamaah_followup.sql](jamaah_followup.sql) 
+
+---
+
+## Sequence Diagram
+
+| Login & Autentikasi            | Manajemen Data Calon Jemaah              |
+| ------------------------------------- | ---------------------------------------- |
+| ![Jadwal](SequenceJadwalFollowUp.jpg) | ![Calon Jemaah](SequenceCalonJamaah.jpg) |
+
+| Pembuatan Jadwal Follow Uo         | Update Data Status Komunikasi                 |
+| --------------------------- | ---------------------------------------- |
+| ![Login](SequenceLogin.jpg) | ![Update](SequenceUpdateCalonJamaah.jpg) |
+
+| Dashboard & Reporting                       | Role Base Access Control                       |
+| -------------------------------------- | --------------------------------------- |
+| ![Laporan](SequenceLaporanClosing.jpg) | ![Status](SequenceStatusKomunikasi.jpg) |
 
 ---
 
