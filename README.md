@@ -47,11 +47,11 @@ File berikut berisi struktur dan data awal database yang digunakan dalam sistem.
 
 | Login & Autentikasi            | Manajemen Data Calon Jemaah              |
 | ------------------------------------- | ---------------------------------------- |
-| ![Login & Autentikasi](login&auth.jpeg) | ![Data Calon Jemaah](manajemendatacalonjamah.jpeg) |
+| ![Login & Autentikasi](login&auth.jpg) | ![Data Calon Jemaah](manajemendatacalonjamah.jpg) |
 
 | Pembuatan Jadwal Follow Uo         | Update Data Status Komunikasi                 |
 | --------------------------- | ---------------------------------------- |
-| ![Jadwal Follow Up](pembuatanjadwalfollow-up.jpeg) | ![Data Status Komunikasi](updatestatuskomunikasi.jpg) |
+| ![Jadwal Follow Up](pembuatanjadwalfollow-up.jpg) | ![Data Status Komunikasi](updatestatuskomunikasi.jpg) |
 
 | Dashboard & Reporting                       | Role Base Access Control                       |
 | -------------------------------------- | --------------------------------------- |
