@@ -95,14 +95,14 @@ Rancangan UI aplikasi yang berfokus pada pengalaman pengguna dalam mengelola pro
 * **Admin:** `satari@bespoke.com` | Password: `admin123`
 * **Staff:** `staff@bespoke.com` | Password: `staff123`
 
-![Panduan](PANDUAN%20USER%20MANUAL(AWAM)_BESPOKE.pdf)
+[Panduan User Manual](PANDUAN%20USER%20MANUAL(AWAM)_BESPOKE.pdf)
 
 ---
 
 ## 🧪 Test Plan (Rencana Pengujian)
 
 Pengujian dilakukan menggunakan metode **Black Box Testing** untuk memastikan setiap fungsi berjalan sesuai dengan kebutuhan sistem.
-![TestPlan](Test_Plan_Bespoke.pdf)
+[Test Plan](Test_Plan_Bespoke.pdf)
 
 ---
 
