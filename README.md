@@ -90,6 +90,12 @@ Rancangan UI aplikasi yang berfokus pada pengalaman pengguna dalam mengelola pro
 
 ---
 
+[Panduan](PANDUAN%20USER%20MANUAL(AWAM)_BESPOKE.pdf)
+
+[TestPlan](Test_Plan_Bespoke.pdf)
+
+---
+
 ## 🛠️ Stack Teknologi
 
 * **Frontend:** Blade (Laravel) + TailwindCSS
