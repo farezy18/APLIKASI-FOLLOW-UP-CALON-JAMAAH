@@ -102,7 +102,7 @@ Rancangan UI aplikasi yang berfokus pada pengalaman pengguna dalam mengelola pro
 ## 🧪 Test Plan (Rencana Pengujian)
 
 Pengujian dilakukan menggunakan metode **Black Box Testing** untuk memastikan setiap fungsi berjalan sesuai dengan kebutuhan sistem.
-[Test Plan](Test_Plan_Bespoke.pdf)
+[Test Plan](Kelompok5_TestPlan.pdf)
 
 ---
 
