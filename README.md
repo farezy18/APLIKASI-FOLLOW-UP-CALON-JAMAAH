@@ -95,7 +95,7 @@ Rancangan UI aplikasi yang berfokus pada pengalaman pengguna dalam mengelola pro
 * **Admin:** `satari@bespoke.com` | Password: `admin123`
 * **Staff:** `staff@bespoke.com` | Password: `staff123`
 
-[Panduan User Manual](PANDUAN%20USER%20MANUAL(AWAM)_BESPOKE.pdf)
+[Panduan User Manual](Kelompok5_PanduanUserManual.pdf)
 
 ---
 
