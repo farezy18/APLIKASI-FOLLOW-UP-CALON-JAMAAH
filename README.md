@@ -45,17 +45,17 @@ File berikut berisi struktur dan data awal database yang digunakan dalam sistem.
 
 ## Sequence Diagram
 
-| Login & Autentikasi            | Manajemen Data Calon Jemaah              |
+| Login & Autentikasi            | Manajemen User              |
 | ------------------------------------- | ---------------------------------------- |
-| ![Login & Autentikasi](login&auth.jpg) | ![Data Calon Jemaah](manajemendatacalonjamaah.jpg) |
+| ![Login & Autentikasi](login&auth.jpg) | ![Manajemen User](manajemenUser.jpg) |
 
-| Pembuatan Jadwal Follow Uo         | Update Data Status Komunikasi                 |
-| --------------------------- | ---------------------------------------- |
-| ![Jadwal Follow Up](pembuatanjadwalfollow-up.jpg) | ![Data Status Komunikasi](updatestatuskomunikasi.jpg) |
+| Pembuatan Data CAlon Jamaah      | Pembuatan Jadwal Follow Up         | Update Data Status Komunikasi                 |
+| --------------------------- | --------------------------- | ---------------------------------------- |
+![Data Calon Jemaah](manajemendatacalonjamaah.jpg) | ![Jadwal Follow Up](pembuatanjadwalfollow-up.jpg) | ![Data Status Komunikasi](updatestatuskomunikasi.jpg) |
 
-| Dashboard & Reporting                       | Role Base Access Control                       |
+| Dashboard & Reporting                       | Activity Logging                       |
 | -------------------------------------- | --------------------------------------- |
-| ![Dashboard & laporan](dashboard&reportingflow.jpg) | ![Role](rolebaseacssescontrol.jpg) |
+| ![Dashboard & laporan](dashboard&reportingflow.jpg) | ![Activity Logging](activityLog.jpg) |
 
 ---
 
