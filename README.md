@@ -47,7 +47,7 @@ File berikut berisi struktur dan data awal database yang digunakan dalam sistem.
 
 | Login & Autentikasi            | Manajemen User              |
 | ------------------------------------- | ---------------------------------------- |
-| ![Login & Autentikasi](login&auth.jpg) | ![Manajemen User](manajemenUser.jpg) |
+| ![Login & Autentikasi](login&auth.jpg) | ![Manajemen User](manajemenUser.jpeg) |
 
 | Pembuatan Data CAlon Jamaah      | Pembuatan Jadwal Follow Up         | Update Data Status Komunikasi                 |
 | --------------------------- | --------------------------- | ---------------------------------------- |
@@ -55,7 +55,7 @@ File berikut berisi struktur dan data awal database yang digunakan dalam sistem.
 
 | Dashboard & Reporting                       | Activity Logging                       |
 | -------------------------------------- | --------------------------------------- |
-| ![Dashboard & laporan](dashboard&reportingflow.jpg) | ![Activity Logging](activityLog.jpg) |
+| ![Dashboard & laporan](dashboard&reportingflow.jpg) | ![Activity Logging](activityLog.jpeg) |
 
 ---
 
