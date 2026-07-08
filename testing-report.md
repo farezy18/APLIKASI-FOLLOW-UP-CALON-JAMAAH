@@ -139,37 +139,37 @@ Secara keseluruhan, aplikasi Jemaah Follow Up Management System berada pada kond
 Berikut adalah screenshot sebagai bukti dokumentasi pengujian fitur-fitur aplikasi:
 
 ### Screenshot 1 – Halaman Dashboard Admin
-![Dashboard Admin](screenshots/DashboardAdmin.jpg)
+![Dashboard Admin](/DashboardAdmin.jpg)
 *Tampilan dashboard utama yang menampilkan statistik Total Calon Jemaah (1.247), Follow Up Hari Ini (32), Jemaah Closing (487), Conversion Rate (39.1%), grafik Follow Up Activity, Closing per Month, dan tabel Follow Up Terbaru.*
 
 ---
 
 ### Screenshot 2 – Halaman Data Calon Jemaah
-![Data Calon Jemaah](screenshots/DataCalonJamaah.jpg)
+![Data Calon Jemaah](/DataCalonJamaah.jpg)
 *Tampilan daftar data calon jemaah dengan informasi nama, nomor HP, kota, status minat (Hot Lead, Tertarik, Pertimbangan, Closing, Tidak Tertarik), paket diminati, tanggal input, dan staff marketing yang bertanggung jawab. Terdapat fitur pencarian, filter status, tombol Import Data, dan Tambah Jemaah.*
 
 ---
 
 ### Screenshot 3 – Form Tambah Data Calon Jemaah
-![Tambah Calon Jemaah](screenshots/TransaksiCalonJamaah.jpg)
+![Tambah Calon Jemaah](/TransaksiCalonJamaah.jpg)
 *Tampilan form tambah data calon jemaah baru dengan section Data Pribadi (Nama, Jenis Kelamin, Kota, Umur), Kontak (WhatsApp, Email, Sumber Lead), Minat Umroh (Paket, Budget, Rencana Berangkat, Jumlah Orang), Status & Follow Up, dan Catatan Marketing.*
 
 ---
 
 ### Screenshot 4 – Halaman Jadwal Follow Up
-![Jadwal Follow Up](screenshots/JadwalFollowUp.jpg)
+![Jadwal Follow Up](/JadwalFollowUp.jpg)
 *Tampilan daftar jadwal follow up dengan widget statistik (Follow Up Hari Ini: 32, Follow Up Minggu Ini: 127, Follow Up Terlewat: 8), filter berdasarkan metode/status/staff, dan tabel jadwal lengkap dengan status (Pending, Scheduled, Completed, Overdue).*
 
 ---
 
 ### Screenshot 5 – Form Tambah Jadwal Follow Up
-![Tambah Jadwal Follow Up](screenshots/TambahJadwalFollowUp.jpg)
+![Tambah Jadwal Follow Up](/TambahJadwalFollowUp.jpg)
 *Tampilan form tambah jadwal follow up baru dengan section Informasi Jemaah (Pilih Jemaah, Kontak, Paket), Jadwal Follow Up (Tanggal, Jam, Metode, Prioritas), Penanggung Jawab (Staff Marketing, Status), Catatan Follow Up, dan Reminder & Notifikasi.*
 
 ---
 
 ### Screenshot 6 – Halaman Settings
-![Settings](screenshots/Settings.jpg)
+![Settings](/Settings.jpg)
 *Tampilan halaman pengaturan dengan section Profile Settings (Nama, Email, Telepon, Role), Change Password, Notification Settings (Email, Follow Up Reminders, Closing, Weekly Reports, System Updates), dan System Preferences (Bahasa, Zona Waktu, Format Tanggal, Mata Uang, Dark Mode).*
 
 ---
